@@ -79,6 +79,18 @@ body {
     margin: 0 5%;
 }
 
+.b-member {
+ padding-bottom: 1em;
+}
+.b-member p {
+ margin: 0;
+ padding: 0;
+}
+
+.b-member p.b-title {
+ font-weight: bold;
+}
+
 
 /* =============================================================================
    GOOGLE MAPS
